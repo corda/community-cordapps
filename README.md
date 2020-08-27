@@ -5,7 +5,9 @@
 </p>
 
 ## Introduction
-This readme has listed the community projects that are built and maintained by our Corda community fans. This is the place where people share their thoughts and open source projects. All of the projects are developed using Corda Open Source. We hope these CorDapps can help you to fund your own thought about what you would like to build on Corda! 😉 
+These projects are built and maintained by the Corda Developer Community. All of the projects are developed using Corda Open Source. We hope these CorDapps can help you find inspiration for what you can build on Corda!
+
+
 
 ## Table of Content 
 
@@ -17,4 +19,6 @@ This readme has listed the community projects that are built and maintained by o
 
 
 ### Disclaimer
-All of the CorDapps abvove are community based. All of the projects will get examined prior to get displayed into the list. However, R3 will not be held accountable for updating and maintaining the project after the initial audit. Please Email devrel@r3.com if you want to get your project listed on the page. 
+R3 does not maintain or make any guarantees about these projects, express or implied. 
+
+> If you’ d like to see your project added to this page, send an email to [devrel@r3.com](mailto:devrel@r3.com).
