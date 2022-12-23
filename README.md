@@ -9,12 +9,10 @@ These projects are built and maintained by the Corda Developer Community. All of
 
 
 
-## Table of Content 
+## Table of Contents 
 
 * [Decentralized Corpus Manager](https://github.com/JonathanScialpi/decentralized_corpus_manager): Machine Learning on Corda by Jonathan Scialpi
 * [Permanent Relocation Process](https://github.com/RK3713/PR-Cordapp): PR application by Ajinkya Pande and Rishi Kundu
-* 
-* 
 
 
 
